@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Crud SQLite</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="codigo">Codigo:</string>
+</resources>
